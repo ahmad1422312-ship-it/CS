@@ -1,0 +1,6 @@
+{
+  "name": "NerveTrace PATCH",
+  "description": "Wearable, wireless, reusable peripheral nerve-conduction monitoring system for clinical neuropathy assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
